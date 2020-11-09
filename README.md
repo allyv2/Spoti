@@ -1,0 +1,2 @@
+# Spoti
+spoti theme
